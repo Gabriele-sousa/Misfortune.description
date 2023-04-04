@@ -26,9 +26,9 @@
 </ul>
  <p>Para a interação de fazer a foto mudar no jogo foram seguidos essses passos:</p>
  <ul>
-    <ol>Foi selecionada a imagem a partir do seu ID utilizando o getElementById(),e armazenou a referência da imagem na variável foto.</ol>
-    <ol>Em seguida, foi adicionado um evento de clique na imagem utilizando addEventListener()</ol>
-    <ol>Dentro da função é gerado um número aleatório utilizando a função Math.random(). Esse número é multiplicado por 10 e arredondado para o número inteiro mais próximo utilizando a função Math.round(), já que a imagem é nomeada de acordo o padrão de 1 a 10.</ol>
-    <ol>a imagem é alterada para exibir uma imagem aleatória dentro da pasta "imagem" utilizando o método setAttribute() para atualizar o atributo src da tag img. A imagem é selecionada com o número aleatório gerado com a extensão .jpeg</ol>
+    <ol>Foi selecionada a imagem a partir do seu ID utilizando o getElementById,e armazenou a referência da imagem na variável foto.</ol>
+    <ol>Em seguida, foi adicionado um evento de clique na imagem utilizando addEventListener</ol>
+    <ol>Dentro da função é gerado um número aleatório utilizando a função Math.random. Esse número é multiplicado por 10 e arredondado para o número inteiro mais próximo utilizando a função Math.round, já que a imagem é nomeada de acordo o padrão de 1 a 10.</ol>
+    <ol>a imagem é alterada para exibir uma imagem aleatória dentro da pasta "imagem" utilizando o método setAttribute para atualizar o atributo src da tag img. A imagem é selecionada com o número aleatório gerado com a extensão .jpeg</ol>
  </ul>
     
