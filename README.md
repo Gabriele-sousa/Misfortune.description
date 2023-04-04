@@ -32,5 +32,5 @@
     <ol>a imagem é alterada para exibir uma imagem aleatória dentro da pasta "imagem" utilizando o método setAttribute para atualizar o atributo src da tag img. A imagem é selecionada com o número aleatório gerado com a extensão .jpeg</ol>
  </ul>
     
-    <h3>Autor</h3>
-   <p>Este site foi criado por: Gabriele Sousa</p>
+<h2>Autor</h2>
+<p>Este site foi criado por: Gabriele Sousa</p>
