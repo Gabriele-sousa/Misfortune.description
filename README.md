@@ -12,5 +12,8 @@
     
  <h2>Desenvolvimento</h2>
  <ul>
-    <li>Criar a estrutura básica do html:</li>
-    <dd>Adicionar as tags html, head, title e body.</dd>
+    <ol>1.Criar a estrutura básica do html:</ol>
+    <dd>  Adicionar as tags html, head, title e body.</dd>
+    <ol>2.Adicionar o conteúdo da página:</ol>
+    <dd>Inserir um titulo, e um paragrafo com um breve resumo do jogo Little Misfortune</dd>
+    
