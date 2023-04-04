@@ -13,17 +13,22 @@
  <h2>Desenvolvimento</h2>
  <p>Para criar este site, foram utilizados os seguintes passos:</p>
  <ul>
-    <ol>1.Criar a estrutura básica do html:</ol><br>
+    <ol>1.Criar a estrutura básica do html:</ol>
     <dd>  Adicionar as tags html, head, title e body.</dd><br>
-    <ol>2.Adicionar o conteúdo da página:</ol><br>
-    <dd>Inserir um titulo, e um paragrafo com um breve resumo do jogo Little Misfortune</dd><br>
+    <ol>2.Adicionar o conteúdo da página:</ol>
+    <dd>Inserir um titulo, e um paragrafo com um breve resumo do jogo Little Misfortune</dd>
     <dd>Adicionar a imagem do jogo</dd><br>
-    <ol>3.Estilizar o site com CSS:</ol><br>
-    <dd>Definir as cores da página, cor tamanho e estilo da fonte</dd><br>
+    <ol>3.Estilizar o site com CSS:</ol>
+    <dd>Definir as cores da página, cor tamanho e estilo da fonte</dd>
     <dd>Centralização do titulo e do parágrafo</dd><br>
-    <ol>4.Adicionar interatividade com JavaScript:</ol><br><br>
+    <ol>4.Adicionar interatividade com JavaScript:</ol>
     <dd>Adicionar o arquivo index.js para adicionar uma interação na imagem do jogo.</dd><br>
 </ul>
  <p>Para a interação de fazer a foto mudar no jogo foram seguidos essses passos:</p>
- 
+ <ul>
+    <ol>Foi selecionada a imagem a partir do seu ID utilizando o getElementById(),e armazenou a referência da imagem na variável foto.</ol>
+    <ol>Em seguida, foi adicionado um evento de clique na imagem utilizando addEventListener()</ol>
+    <ol>Dentro da função é gerado um número aleatório utilizando a função Math.random(). Esse número é multiplicado por 10 e arredondado para o número inteiro mais próximo utilizando a função Math.round(), já que a imagem é nomeada de acordo o padrão de 1 a 10.</ol>
+    <ol>a imagem é alterada para exibir uma imagem aleatória dentro da pasta "imagem" utilizando o método setAttribute() para atualizar o atributo src da tag img. A imagem é selecionada com o número aleatório gerado com a extensão .jpeg</ol>
+ </ul>
     
