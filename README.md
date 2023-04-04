@@ -5,7 +5,12 @@
 <h2>Estrutura do projeto</h2>
 <p> O projeto é composto pelos seguintes arquivos e pastas: </p>
 <ul>
-    <ol>index.html          - Página inicial do site</ol>
+    <ol>programa.html          - Página inicial do site</ol>
     <ol>css/estyle.css      - Arquivo CSS para estilizar o site</ol>
     <ol>js/index.js         - Arquivo JavaScript para adicionar interatividade ao site</ol>
     <ol>imagem/             - Pasta com imagens utilizadas no site</ol> </ul>
+    
+ <h2>Desenvolvimento</h2>
+ <ul>
+    <li>Criar a estrutura básica do html:</li>
+    <dd>Adicionar as tags html, head, title e body.</dd>
