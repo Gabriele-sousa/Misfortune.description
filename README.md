@@ -4,7 +4,8 @@
 
 <h2>Estrutura do projeto</h2>
 <p> O projeto é composto pelos seguintes arquivos e pastas: </p>
-<ol>index.html          - Página inicial do site
-    css/estyle.css      - Arquivo CSS para estilizar o site
-    js/index.js         - Arquivo JavaScript para adicionar interatividade ao site
-    imagem/             - Pasta com imagens utilizadas no site </ol>
+<ul>
+    <ol>index.html          - Página inicial do site</ol>
+    <ol>css/estyle.css      - Arquivo CSS para estilizar o site</ol>
+    <ol>js/index.js         - Arquivo JavaScript para adicionar interatividade ao site</ol>
+    <ol>imagem/             - Pasta com imagens utilizadas no site</ol> </ul>
